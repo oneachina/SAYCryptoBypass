@@ -1,4 +1,5 @@
 # SAYCryptoBypass
+
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
     <img src="https://img.shields.io/badge/Platform-Unity-lightgrey.svg">
@@ -9,6 +10,8 @@
 A proof-of-concept analysis and bypass of a weak encryption and device binding scheme found in a Unity application. For educational purposes only.
 
 对一个Unity应用中发现的弱加密和设备绑定方案的概念验证分析与绕过
+
+___为了防止DMCA 本项目会进行Archive / To prevent DMCA takedowns, this project will be archived.___
 
 ## Overview / 概述
 This repository contains a full breakdown of a custom encryption algorithm `SAYCrypto` and device verification scene `scnVerify` found in a compiled Unity application. The code was recovered through decompilation and serves as a perfect case study for what not to do when implementing client-side security.
